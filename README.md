@@ -18,7 +18,7 @@ Additionally, the Colorado Board of Elections wants to analyze the elections tur
 
 ## Results
 ### Election Analysis
-![2017Results]( https://github.com/luisnewmanh/stock-analysis/blob/master/Resources/2017Results.JPG)
+![election_analysis]( https://github.com/luisnewmanh/Election_Analysis/blob/master/Resources/election_analysis.JPG)
 
 ### Election Turnout
 ![2018Results]( https://github.com/luisnewmanh/stock-analysis/blob/master/Resources/2018Results.JPG)
