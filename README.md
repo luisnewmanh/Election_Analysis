@@ -32,6 +32,10 @@ The analysis of the election shows that:
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 of the votes
 - The winner of the election was:
     - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 of the votes
+- The counties that vote in the election were:
+    - Jefferson
+    - Denver
+    - Arapahoe
 - The voter turnout for each county was:
     - Jefferson received 10.5% of the vote and 38,855 of the votes
     - Denver received 82.8% of the vote and 306,055 of the votes
@@ -39,4 +43,4 @@ The analysis of the election shows that:
 - The county with highest turnout was:
     - Denver County received 82.8% of the vote and 306,055 of the votes
 ## Summary
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
+The script to perform the election audit can be used for any other election as long as the provided data set (election_results.csv) has the same format. The sript only open the results file in reading mode assuring that the file will be modified, thus changing the results. One of change to the script that can be done is to analyze the votes per county for each candidate, this can lead to understand the preferences for a particular candidate in a given county. It could be possible to verify if there is a duplicated ballot as an extra layer of security for the election.
